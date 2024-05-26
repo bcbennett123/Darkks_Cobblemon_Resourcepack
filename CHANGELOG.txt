@@ -1,0 +1,10 @@
+[V 1.0]
+- Initial Release
+
+[V 1.1]
+- Changed The File Structure
+- Made Every Song A Loop
+
+[V 1.2]
+- Fixed A Typo In "sounds.json"
+- Renamed Two Songs
